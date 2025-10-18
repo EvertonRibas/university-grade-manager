@@ -30,4 +30,3 @@ Este projeto ajuda estudantes a acompanhar seu desempenho academico calculando m
 ### Instalacao
 
 1. Clone o repositorio:
-2. 
