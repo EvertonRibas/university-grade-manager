@@ -1,5 +1,3 @@
-# university-grade-manager
-Sistema em Python para gerenciamento de notas universitárias - Python, Pandas, CSV
 # University Grade Manager 🎓
 
 A Python-based application to manage and calculate university grades efficiently.
@@ -33,4 +31,4 @@ This project helps students track their academic performance by calculating aver
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/university-grade-manager.git
+git clone https://github.com/Evento-Ribas/university-grade-manager.git
